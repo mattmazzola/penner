@@ -1,0 +1,26 @@
+{
+  "name": "@mattmazzola/penner",
+  "version": "0.1.0",
+  "description": "Penner (Easing) functions in ES6",
+  "main": "dist/penner.js",
+  "typings": "dist/penner.d.ts",
+  "scripts": {
+    "prepublish": "tsc -p .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattmazzola/penner.git"
+  },
+  "keywords": [
+    "penner",
+    "easing",
+    "transitions"
+  ],
+  "author": "Matt Mazzola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattmazzola/penner/issues"
+  },
+  "homepage": "https://github.com/mattmazzola/penner#readme"
+}
