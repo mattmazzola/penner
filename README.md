@@ -1,4 +1,4 @@
-# @mattmazzola/penner
+# pennerts
 A collection of penner functions based on https://github.com/bcherny/penner but using modules and TypeScript.
 
 ## Usage

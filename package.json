@@ -1,6 +1,6 @@
 {
-  "name": "@mattmazzola/penner",
-  "version": "0.1.0",
+  "name": "pennerts",
+  "version": "1.0.0",
   "description": "Penner (Easing) functions in ES6",
   "main": "dist/penner.js",
   "typings": "dist/penner.d.ts",
